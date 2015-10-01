@@ -8,7 +8,7 @@ This application is a barebones tip calculator built using the vimeo walkthru. I
 * [x] Required: The user can calculate the tip, using diferent percentages using the app
 
 
-Walkthrough of all the app stories:
+Demo of the tip calculator app for ios:
 
 ![Video Walkthrough](tipcalcdemo.gif)
 
